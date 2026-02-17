@@ -1,6 +1,6 @@
 # STAT112 Data Visualization Project
 
-This repository contains my **STAT112 (METU / ODTÜ)** course project focused on **data exploration and visualization** using **Jupyter Notebook**. :contentReference[oaicite:1]{index=1}
+This repository contains my **STAT112 (METU / ODTÜ)** course project focused on **data exploration and visualization** using **Jupyter Notebook**.
 
 ## Overview
 The goal of this project is to take a real dataset, clean/prepare it, and build clear visualizations that communicate patterns and insights effectively.
